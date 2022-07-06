@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Munatsi Ziumbe
+# 👋 Hi, I’m *Munatsi Ziumbe*
 ## 💻 I'm a Junior Software Developer with experience as a paid contractor, looking for a full time role.
 
 #### About me
