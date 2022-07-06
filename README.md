@@ -15,4 +15,4 @@
 - 
 - 📫 Email me! ⌲ munziu@gmail.com
 - 📱 Call me! ⌲ +34 681 013 134 
-- linkedin_username: munziu
+- linkedin_username: munziu/
