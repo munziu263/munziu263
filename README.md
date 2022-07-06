@@ -1,4 +1,4 @@
-# 👋 Hi, I’m *Munatsi Ziumbe*
+# 👋 Hi, I’m Munatsi Ziumbe
 ## 💻 I'm a Junior Software Developer with experience as a paid contractor, looking for a full time role.
 
 #### About me
@@ -14,4 +14,5 @@
 - 💞️ I’m looking to collaborate! I want to grow as a developer, and I will jump at any opportunity to expand my skills. 
 - 
 - 📫 Email me! ⌲ munziu@gmail.com
-- 📱 Call me! ⌲ +34 681 013 134
+- 📱 Call me! ⌲ +34 681 013 134 
+- linkedin_username: munziu
