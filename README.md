@@ -7,7 +7,7 @@
 - 👀 I am interested in backend and fullstack roles in London, UK and Barcelona, Spain
 
 
->  # I’m passionate about building tools that solve day-to-day problems for people. Having worked in a large multinational, I know how much time people spend doing painfully repetitive and menial tasks. This is a travesty! People are a critical resource and we shouldn't be wasting their time on tasks that don't challenge them mentally. I enjoy the process of breaking seemingly complex problems down into smaller problems, solving them and then delivering solutions to end-users.
+>  ### *I’m passionate about building tools that solve day-to-day problems for people. Having worked in a large multinational, I know how much time people spend doing painfully repetitive and menial tasks. This is a travesty! People are a critical resource and we shouldn't be wasting their time on tasks that don't challenge them mentally. I enjoy the process of breaking seemingly complex problems down into smaller problems, solving them and then delivering solutions to end-users.*
 
 - 🌱 I’m currently learning Scala.
 
