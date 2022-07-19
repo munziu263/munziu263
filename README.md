@@ -15,6 +15,6 @@
 - 
 - 📫 Email me! ⌲ munziu@gmail.com
 - 📱 Call me! ⌲ +34 681 013 134 
-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
-&nbsp; ⌲ linkedin.com/in/munziu/
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/munziu)
+&nbsp;
 
