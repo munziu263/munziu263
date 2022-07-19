@@ -3,11 +3,12 @@
 
 #### About me
 - 📈📊 I have experience developing tools for data analysis.
+- I have experience developing web
 - 🐍 I work in Python and Typescript, but I am currently looking for excuses to spend more time in Scala, C++, and Golang.
 - 👀 I am interested in backend and fullstack roles in London, UK and Barcelona, Spain
 
 
->  ### *I’m passionate about building tools that solve day-to-day problems for people. Having worked in a large multinational, I know how much time people spend doing painfully repetitive and menial tasks. This is a travesty! People are a critical resource and we shouldn't be wasting their time on tasks that don't challenge them mentally. I enjoy the process of breaking seemingly complex problems down into smaller problems, solving them and then delivering solutions to end-users.*
+>  ### *I’m passionate about building tools that solve day-to-day problems for people. Having worked in a large multinational, I know how much time people spend doing painfully repetitive and menial tasks. This is a travesty! People are a critical resource and we shouldn't be wasting their time on tasks that don't challenge them and give them the opportunity to grow. I enjoy the process of breaking seemingly complex problems down into smaller problems, solving them and then delivering solutions to end-users.*
 
 - 🌱 I’m currently learning Scala.
 
