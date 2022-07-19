@@ -7,7 +7,7 @@
 - 👀 I am interested in backend and fullstack roles in London, UK and Barcelona, Spain
 
 
-> I’m passionate about building tools that solve day-to-day problems for people. Having worked in a large multinational, I know how much time people spend doing painfully repetitive and menial tasks. This is a travesty! People are a critical resource and we shouldn't be wasting their time on tasks that don't challenge them mentally. 
+> I’m passionate about building tools that solve day-to-day problems for people. Having worked in a large multinational, I know how much time people spend doing painfully repetitive and menial tasks. This is a travesty! People are a critical resource and we shouldn't be wasting their time on tasks that don't challenge them mentally. I love the process of breaking these down into smaller problems, solving them and delivering solutions to end-users.
 
 - 🌱 I’m currently learning Scala.
 
@@ -16,5 +16,4 @@
 - 📫 Email me! ⌲ munziu@gmail.com
 - 📱 Call me! ⌲ +34 681 013 134 
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/munziu)
-&nbsp;
 
