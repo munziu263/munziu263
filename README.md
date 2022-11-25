@@ -11,7 +11,7 @@
 
 >  ### *I’m passionate about building tools that solve day-to-day problems for people. Having worked in a large multinational, I know how much time people spend doing painfully repetitive and menial tasks. This is a travesty! People are a critical resource and we shouldn't be wasting their time on tasks that don't challenge them and give them the opportunity to grow. I enjoy the process of breaking seemingly complex problems down into smaller problems, solving them and then delivering solutions to end-users.*
 
-- 🌱 I’m currently learning Scala.
+- 🌱 I’m currently learning DSA in C++ and FastAPI in Python.
 
 - 💞️ I’m looking to collaborate! I want to grow as a developer, and I will jump at any opportunity to expand my skills. 
 
