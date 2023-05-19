@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Munatsi Ziumbe
 ## 💻 I'm a driven and curious full-stack software engineer with one year of professional experience, passionate about building tools and implementing software development best practices.
 
-## TAKE A LOOK AT MY [WEBSITE](https://munatsi.ziumbe.com) 
+> #### Want to learn more? Take a look at my [website](https://munatsi.ziumbe.com) 
 
 #### About me
 - 📈📊 I have experience developing data analysis, NLP and financial analysis tools.
